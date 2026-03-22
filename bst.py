@@ -86,3 +86,4 @@ class BST:
             return node
 
         self.root = _delete(self.root, book_id)
+        print("Hello World")

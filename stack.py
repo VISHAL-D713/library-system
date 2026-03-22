@@ -1,4 +1,5 @@
 # stack.py
+# All code from chatgpt
 class Stack:
     def __init__(self, max_size=None):
         self._stack = []
